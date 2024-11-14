@@ -1,6 +1,6 @@
 ---
 title: "Brain Tumor Predication using ML and DL"
-author: "Nirmal"
+author: "Nirmal Kumar"
 date: "`r Sys.Date()`"
 output: html_document
 ---
